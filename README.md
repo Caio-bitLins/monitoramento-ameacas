@@ -1,6 +1,6 @@
 # Monitorando de ameaças em python
 
-Este projeto é uma ferramenta de monitoramento de diretórios para equipes de Blue Team. Ele detecta alterações em um diretório específico (criação, modificação e exclusão de arquivos) e exibe os logs em uma interface gráfica.
+Este projeto é uma ferramenta de monitoramento de diretórios para times de SOC. Ele detecta alterações em um diretório específico (criação, modificação e exclusão de arquivos) e exibe os logs em uma interface gráfica.
 
 ## Funcionalidades
 
